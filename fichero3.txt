@@ -1,3 +1,5 @@
 Un fichero
 nuevo
 linea nueva de local
+Nueva linea en remoto
+
